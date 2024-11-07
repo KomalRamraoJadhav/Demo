@@ -1,2 +1,2 @@
 # Demo
-this is my learning repository.</br> Author- KOmal
+this is my learning repository.</br> Author- Komal
